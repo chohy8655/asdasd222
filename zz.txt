@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ooooooooooo
+=======
+dasdsadsad
+asdasdasd
+>>>>>>> 71568efc291c33ac956fc083270e05076fd5de0d
